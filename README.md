@@ -36,3 +36,11 @@ Train the model and predict the fitness scores for the test sequences.
 ```
 ./Boysen_ProteinNN2.py
 ```
+
+### References
+
+[1] Hsu, C., Nisonoff, H., Fannjiang, C., & Listgarten, J. (2022). Learning protein fitness models from evolutionary and assay-labeled data. Nature biotechnology, 40(7), 1114–1122. https://doi.org/10.1038/s41587-021-01146-5
+[2] Yang, K. K., Wu, Z., & Arnold, F. H. (2019). Machine-learning-guided directed evolution for protein engineering. Nature methods, 16(8), 687–694. https://doi.org/10.1038/s41592-019- 0496-6
+[3] Hopf, T. A., Ingraham, J. B., Poelwijk, F. J., Schärfe, C. P., Springer, M., Sander, C., & Marks, D. S. (2017). Mutation effects predicted from sequence co-variation. Nature biotechnology, 35(2), 128–135. https://doi.org/10.1038/nbt.3769
+[4] Notin, P., Dias, M., Frazer, J., Marchena-Hurtado, J., Gomez, A., Marks, D. S., & Gal, Y. (2022). Tranception: protein fitness prediction with autoregressive transformers and inference- time retrieval. arXiv. https://doi.org/10.48550/arXiv.2205.13760
+[5]	Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., Santos Costa, A. dos, Fazel-Zarandi, M., Sercu, T., Candido, S., & Rives, A. (2022). Language models of protein sequences at the scale of evolution enable accurate structure prediction. BioRxiv, 2022.07.20.500902. https://doi.org/10.1101/2022.07.20.500902

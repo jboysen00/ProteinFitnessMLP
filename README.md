@@ -13,8 +13,11 @@ rm ProteinGym_substitutions.zip
 ```
 Two of the DMS assay files are a different format and must be removed.
 ```
-rm F7YBW8_MESOW_Aakre_2015.csv
-rm GCN4_YEAST_Staller_induction_2018.csv
+rm ProteinGym_substitutions/F7YBW8_MESOW_Aakre_2015.csv
+rm ProteinGym_substitutions/GCN4_YEAST_Staller_induction_2018.csv
+rm ProteinGym_substitutions/GFP_AEQVI_Sarkisyan_2016.csv
+rm ProteinGym_substitutions/CAPSD_AAV2S_Sinai_substitutions_2021.csv
+rm ProteinGym_substitutions/HIS7_YEAST_Pokusaeva_2019.csv
 ```
 
 ## Generate Mutation PLM Token Representations
